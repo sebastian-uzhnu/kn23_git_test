@@ -2,6 +2,10 @@
 
 class Program
 {
+    void Test() 
+    {
+        
+    }
     static void Main(string[] args)
     {
         int x = 10;
